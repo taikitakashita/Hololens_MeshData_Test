@@ -37,12 +37,6 @@ public class WallManagement : MonoBehaviour, IInputClickHandler {
     {
         Debug.Log(MenuManagement.Instance.MenuSelect);
 
-        if (MenuManagement.Instance.MenuSelect == "Delete")
-        {
-            WorldAnchorManager.Instance.RemoveAnchor(this.gameObject.GetInstanceID().ToString());
-            this.gameObject.layer = LayerMask.NameToLayer("Default");
-        }
-
         if (MenuManagement.Instance.MenuSelect == "Save")
         {
             WorldAnchorManager.Instance.AttachAnchor(this.gameObject, this.gameObject.GetInstanceID().ToString());

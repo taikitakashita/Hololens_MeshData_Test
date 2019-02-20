@@ -30,13 +30,13 @@
     <AppXManifest Include="C:\Users\31673.QNPBBL1810002\Desktop\UnityProject\Hololens_MeshData_Test\App\Hololens_MeshData_Test\bin\x86\Release\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2019-02-18T13:44:06.957</Modified>
+      <Modified>2019-02-20T04:12:46.640</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\31673.QNPBBL1810002\Desktop\UnityProject\Hololens_MeshData_Test\App\Hololens_MeshData_Test\bin\x86\Release\Hololens_MeshData_Test.exe">
       <PackagePath>entrypoint\Hololens_MeshData_Test.exe</PackagePath>
-      <Modified>2019-02-18T13:43:49.131</Modified>
+      <Modified>2019-02-20T04:12:30.160</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\31673.QNPBBL1810002\.nuget\packages\microsoft.applicationinsights\1.0.0\lib\portable-win81+wpa81\Microsoft.ApplicationInsights.dll">
       <PackagePath>Microsoft.ApplicationInsights.dll</PackagePath>
@@ -500,7 +500,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\31673.QNPBBL1810002\Desktop\UnityProject\Hololens_MeshData_Test\App\Hololens_MeshData_Test\Resource.res">
       <PackagePath>Resource.res</PackagePath>
-      <Modified>2019-02-18T13:43:25.799</Modified>
+      <Modified>2019-02-20T04:11:45.040</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\31673.QNPBBL1810002\Desktop\UnityProject\Hololens_MeshData_Test\App\Hololens_MeshData_Test\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
@@ -562,15 +562,15 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\31673.QNPBBL1810002\Desktop\UnityProject\Hololens_MeshData_Test\App\Hololens_MeshData_Test\Data\boot.config">
       <PackagePath>Data\boot.config</PackagePath>
-      <Modified>2019-02-18T13:42:24.529</Modified>
+      <Modified>2019-02-20T04:10:48.359</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\31673.QNPBBL1810002\Desktop\UnityProject\Hololens_MeshData_Test\App\Hololens_MeshData_Test\Data\globalgamemanagers">
       <PackagePath>Data\globalgamemanagers</PackagePath>
-      <Modified>2019-02-18T13:42:22.450</Modified>
+      <Modified>2019-02-20T04:10:46.313</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\31673.QNPBBL1810002\Desktop\UnityProject\Hololens_MeshData_Test\App\Hololens_MeshData_Test\Data\level0">
       <PackagePath>Data\level0</PackagePath>
-      <Modified>2019-02-18T13:42:20.291</Modified>
+      <Modified>2019-02-20T04:10:44.410</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\31673.QNPBBL1810002\Desktop\UnityProject\Hololens_MeshData_Test\App\Hololens_MeshData_Test\Data\Resources\unity default resources">
       <PackagePath>Data\Resources\unity default resources</PackagePath>
@@ -578,35 +578,35 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\31673.QNPBBL1810002\Desktop\UnityProject\Hololens_MeshData_Test\App\Hololens_MeshData_Test\Data\Resources\unity_builtin_extra">
       <PackagePath>Data\Resources\unity_builtin_extra</PackagePath>
-      <Modified>2019-02-18T13:42:24.526</Modified>
+      <Modified>2019-02-20T04:10:48.350</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\31673.QNPBBL1810002\Desktop\UnityProject\Hololens_MeshData_Test\App\Hololens_MeshData_Test\Data\globalgamemanagers.assets">
       <PackagePath>Data\globalgamemanagers.assets</PackagePath>
-      <Modified>2019-02-18T13:42:22.674</Modified>
+      <Modified>2019-02-20T04:10:46.530</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\31673.QNPBBL1810002\Desktop\UnityProject\Hololens_MeshData_Test\App\Hololens_MeshData_Test\Data\sharedassets0.assets">
       <PackagePath>Data\sharedassets0.assets</PackagePath>
-      <Modified>2019-02-18T13:42:23.953</Modified>
+      <Modified>2019-02-20T04:10:47.723</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\31673.QNPBBL1810002\Desktop\UnityProject\Hololens_MeshData_Test\App\Hololens_MeshData_Test\Data\level0.resS">
       <PackagePath>Data\level0.resS</PackagePath>
-      <Modified>2019-02-18T13:42:20.282</Modified>
+      <Modified>2019-02-20T04:10:44.410</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\31673.QNPBBL1810002\Desktop\UnityProject\Hololens_MeshData_Test\App\Hololens_MeshData_Test\Data\sharedassets0.assets.resS">
       <PackagePath>Data\sharedassets0.assets.resS</PackagePath>
-      <Modified>2019-02-18T13:42:23.953</Modified>
+      <Modified>2019-02-20T04:10:47.723</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\31673.QNPBBL1810002\Desktop\UnityProject\Hololens_MeshData_Test\App\Hololens_MeshData_Test\Data\managedAssemblies.txt">
       <PackagePath>Data\managedAssemblies.txt</PackagePath>
-      <Modified>2019-02-18T13:43:25.705</Modified>
+      <Modified>2019-02-20T04:11:44.980</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\31673.QNPBBL1810002\Desktop\UnityProject\Hololens_MeshData_Test\App\Hololens_MeshData_Test\Data\nativePlugins.txt">
       <PackagePath>Data\nativePlugins.txt</PackagePath>
-      <Modified>2019-02-18T13:43:25.707</Modified>
+      <Modified>2019-02-20T04:11:44.980</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\31673.QNPBBL1810002\Desktop\UnityProject\Hololens_MeshData_Test\App\Hololens_MeshData_Test\Data\sharedassets0.resource">
       <PackagePath>Data\sharedassets0.resource</PackagePath>
-      <Modified>2019-02-18T13:42:23.958</Modified>
+      <Modified>2019-02-20T04:10:47.730</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.17763.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
@@ -618,231 +618,231 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\31673.QNPBBL1810002\Desktop\UnityProject\Hololens_MeshData_Test\App\Hololens_MeshData_Test\UnityEngine.TextRenderingModule.dll">
       <PackagePath>UnityEngine.TextRenderingModule.dll</PackagePath>
-      <Modified>2019-02-18T13:44:03.609</Modified>
+      <Modified>2019-02-20T04:12:44.069</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\31673.QNPBBL1810002\Desktop\UnityProject\Hololens_MeshData_Test\App\Hololens_MeshData_Test\UnityEngine.TerrainPhysicsModule.dll">
       <PackagePath>UnityEngine.TerrainPhysicsModule.dll</PackagePath>
-      <Modified>2019-02-18T13:44:03.615</Modified>
+      <Modified>2019-02-20T04:12:44.076</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\31673.QNPBBL1810002\Desktop\UnityProject\Hololens_MeshData_Test\App\Hololens_MeshData_Test\UnityEngine.TerrainModule.dll">
       <PackagePath>UnityEngine.TerrainModule.dll</PackagePath>
-      <Modified>2019-02-18T13:44:03.628</Modified>
+      <Modified>2019-02-20T04:12:44.087</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\31673.QNPBBL1810002\Desktop\UnityProject\Hololens_MeshData_Test\App\Hololens_MeshData_Test\UnityEngine.TilemapModule.dll">
       <PackagePath>UnityEngine.TilemapModule.dll</PackagePath>
-      <Modified>2019-02-18T13:44:03.640</Modified>
+      <Modified>2019-02-20T04:12:44.099</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\31673.QNPBBL1810002\Desktop\UnityProject\Hololens_MeshData_Test\App\Hololens_MeshData_Test\UnityEngine.UIElementsModule.dll">
       <PackagePath>UnityEngine.UIElementsModule.dll</PackagePath>
-      <Modified>2019-02-18T13:44:03.693</Modified>
+      <Modified>2019-02-20T04:12:44.149</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\31673.QNPBBL1810002\Desktop\UnityProject\Hololens_MeshData_Test\App\Hololens_MeshData_Test\UnityEngine.SharedInternalsModule.dll">
       <PackagePath>UnityEngine.SharedInternalsModule.dll</PackagePath>
-      <Modified>2019-02-18T13:44:03.701</Modified>
+      <Modified>2019-02-20T04:12:44.156</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\31673.QNPBBL1810002\Desktop\UnityProject\Hololens_MeshData_Test\App\Hololens_MeshData_Test\UnityEngine.ScreenCaptureModule.dll">
       <PackagePath>UnityEngine.ScreenCaptureModule.dll</PackagePath>
-      <Modified>2019-02-18T13:44:03.710</Modified>
+      <Modified>2019-02-20T04:12:44.163</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\31673.QNPBBL1810002\Desktop\UnityProject\Hololens_MeshData_Test\App\Hololens_MeshData_Test\UnityEngine.SpriteMaskModule.dll">
       <PackagePath>UnityEngine.SpriteMaskModule.dll</PackagePath>
-      <Modified>2019-02-18T13:44:03.717</Modified>
+      <Modified>2019-02-20T04:12:44.170</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\31673.QNPBBL1810002\Desktop\UnityProject\Hololens_MeshData_Test\App\Hololens_MeshData_Test\UnityEngine.StyleSheetsModule.dll">
       <PackagePath>UnityEngine.StyleSheetsModule.dll</PackagePath>
-      <Modified>2019-02-18T13:44:03.726</Modified>
+      <Modified>2019-02-20T04:12:44.177</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\31673.QNPBBL1810002\Desktop\UnityProject\Hololens_MeshData_Test\App\Hololens_MeshData_Test\UnityEngine.SpriteShapeModule.dll">
       <PackagePath>UnityEngine.SpriteShapeModule.dll</PackagePath>
-      <Modified>2019-02-18T13:44:03.733</Modified>
+      <Modified>2019-02-20T04:12:44.184</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\31673.QNPBBL1810002\Desktop\UnityProject\Hololens_MeshData_Test\App\Hololens_MeshData_Test\UnityEngine.VideoModule.dll">
       <PackagePath>UnityEngine.VideoModule.dll</PackagePath>
-      <Modified>2019-02-18T13:44:03.744</Modified>
+      <Modified>2019-02-20T04:12:44.191</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\31673.QNPBBL1810002\Desktop\UnityProject\Hololens_MeshData_Test\App\Hololens_MeshData_Test\UnityEngine.VehiclesModule.dll">
       <PackagePath>UnityEngine.VehiclesModule.dll</PackagePath>
-      <Modified>2019-02-18T13:44:03.750</Modified>
+      <Modified>2019-02-20T04:12:44.198</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\31673.QNPBBL1810002\Desktop\UnityProject\Hololens_MeshData_Test\App\Hololens_MeshData_Test\UnityEngine.UnityWebRequestWWWModule.dll">
       <PackagePath>UnityEngine.UnityWebRequestWWWModule.dll</PackagePath>
-      <Modified>2019-02-18T13:44:03.759</Modified>
+      <Modified>2019-02-20T04:12:44.205</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\31673.QNPBBL1810002\Desktop\UnityProject\Hololens_MeshData_Test\App\Hololens_MeshData_Test\UnityEngine.VRModule.dll">
       <PackagePath>UnityEngine.VRModule.dll</PackagePath>
-      <Modified>2019-02-18T13:44:03.781</Modified>
+      <Modified>2019-02-20T04:12:44.224</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\31673.QNPBBL1810002\Desktop\UnityProject\Hololens_MeshData_Test\App\Hololens_MeshData_Test\UnityEngine.WindModule.dll">
       <PackagePath>UnityEngine.WindModule.dll</PackagePath>
-      <Modified>2019-02-18T13:44:03.788</Modified>
+      <Modified>2019-02-20T04:12:44.230</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\31673.QNPBBL1810002\Desktop\UnityProject\Hololens_MeshData_Test\App\Hololens_MeshData_Test\UnityEngine.WebModule.dll">
       <PackagePath>UnityEngine.WebModule.dll</PackagePath>
-      <Modified>2019-02-18T13:44:03.796</Modified>
+      <Modified>2019-02-20T04:12:44.238</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\31673.QNPBBL1810002\Desktop\UnityProject\Hololens_MeshData_Test\App\Hololens_MeshData_Test\UnityEngine.UnityAnalyticsModule.dll">
       <PackagePath>UnityEngine.UnityAnalyticsModule.dll</PackagePath>
-      <Modified>2019-02-18T13:44:03.804</Modified>
+      <Modified>2019-02-20T04:12:44.245</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\31673.QNPBBL1810002\Desktop\UnityProject\Hololens_MeshData_Test\App\Hololens_MeshData_Test\UnityEngine.UNETModule.dll">
       <PackagePath>UnityEngine.UNETModule.dll</PackagePath>
-      <Modified>2019-02-18T13:44:03.822</Modified>
+      <Modified>2019-02-20T04:12:44.262</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\31673.QNPBBL1810002\Desktop\UnityProject\Hololens_MeshData_Test\App\Hololens_MeshData_Test\UnityEngine.UIModule.dll">
       <PackagePath>UnityEngine.UIModule.dll</PackagePath>
-      <Modified>2019-02-18T13:44:03.842</Modified>
+      <Modified>2019-02-20T04:12:44.270</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\31673.QNPBBL1810002\Desktop\UnityProject\Hololens_MeshData_Test\App\Hololens_MeshData_Test\UnityEngine.UnityConnectModule.dll">
       <PackagePath>UnityEngine.UnityConnectModule.dll</PackagePath>
-      <Modified>2019-02-18T13:44:03.848</Modified>
+      <Modified>2019-02-20T04:12:44.276</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\31673.QNPBBL1810002\Desktop\UnityProject\Hololens_MeshData_Test\App\Hololens_MeshData_Test\UnityEngine.UnityWebRequestTextureModule.dll">
       <PackagePath>UnityEngine.UnityWebRequestTextureModule.dll</PackagePath>
-      <Modified>2019-02-18T13:44:03.854</Modified>
+      <Modified>2019-02-20T04:12:44.281</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\31673.QNPBBL1810002\Desktop\UnityProject\Hololens_MeshData_Test\App\Hololens_MeshData_Test\UnityEngine.UnityWebRequestModule.dll">
       <PackagePath>UnityEngine.UnityWebRequestModule.dll</PackagePath>
-      <Modified>2019-02-18T13:44:03.864</Modified>
+      <Modified>2019-02-20T04:12:44.289</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\31673.QNPBBL1810002\Desktop\UnityProject\Hololens_MeshData_Test\App\Hololens_MeshData_Test\UnityEngine.UnityWebRequestAudioModule.dll">
       <PackagePath>UnityEngine.UnityWebRequestAudioModule.dll</PackagePath>
-      <Modified>2019-02-18T13:44:03.870</Modified>
+      <Modified>2019-02-20T04:12:44.295</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\31673.QNPBBL1810002\Desktop\UnityProject\Hololens_MeshData_Test\App\Hololens_MeshData_Test\UnityEngine.PhysicsModule.dll">
       <PackagePath>UnityEngine.PhysicsModule.dll</PackagePath>
-      <Modified>2019-02-18T13:44:03.883</Modified>
+      <Modified>2019-02-20T04:12:44.307</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\31673.QNPBBL1810002\Desktop\UnityProject\Hololens_MeshData_Test\App\Hololens_MeshData_Test\UnityEngine.AssetBundleModule.dll">
       <PackagePath>UnityEngine.AssetBundleModule.dll</PackagePath>
-      <Modified>2019-02-18T13:44:03.889</Modified>
+      <Modified>2019-02-20T04:12:44.312</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\31673.QNPBBL1810002\Desktop\UnityProject\Hololens_MeshData_Test\App\Hololens_MeshData_Test\UnityEngine.ARModule.dll">
       <PackagePath>UnityEngine.ARModule.dll</PackagePath>
-      <Modified>2019-02-18T13:44:03.897</Modified>
+      <Modified>2019-02-20T04:12:44.320</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\31673.QNPBBL1810002\Desktop\UnityProject\Hololens_MeshData_Test\App\Hololens_MeshData_Test\UnityEngine.AnimationModule.dll">
       <PackagePath>UnityEngine.AnimationModule.dll</PackagePath>
-      <Modified>2019-02-18T13:44:03.913</Modified>
+      <Modified>2019-02-20T04:12:44.335</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\31673.QNPBBL1810002\Desktop\UnityProject\Hololens_MeshData_Test\App\Hololens_MeshData_Test\UnityEngine.AudioModule.dll">
       <PackagePath>UnityEngine.AudioModule.dll</PackagePath>
-      <Modified>2019-02-18T13:44:03.924</Modified>
+      <Modified>2019-02-20T04:12:44.347</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\31673.QNPBBL1810002\Desktop\UnityProject\Hololens_MeshData_Test\App\Hololens_MeshData_Test\UnityEngine.CrashReportingModule.dll">
       <PackagePath>UnityEngine.CrashReportingModule.dll</PackagePath>
-      <Modified>2019-02-18T13:44:03.930</Modified>
+      <Modified>2019-02-20T04:12:44.354</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\31673.QNPBBL1810002\Desktop\UnityProject\Hololens_MeshData_Test\App\Hololens_MeshData_Test\UnityEngine.CoreModule.dll">
       <PackagePath>UnityEngine.CoreModule.dll</PackagePath>
-      <Modified>2019-02-18T13:44:04.239</Modified>
+      <Modified>2019-02-20T04:12:44.636</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\31673.QNPBBL1810002\Desktop\UnityProject\Hololens_MeshData_Test\App\Hololens_MeshData_Test\UnityEngine.ClothModule.dll">
       <PackagePath>UnityEngine.ClothModule.dll</PackagePath>
-      <Modified>2019-02-18T13:44:04.247</Modified>
+      <Modified>2019-02-20T04:12:44.644</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\31673.QNPBBL1810002\Desktop\UnityProject\Hololens_MeshData_Test\App\Hololens_MeshData_Test\Assembly-CSharp.dll">
       <PackagePath>Assembly-CSharp.dll</PackagePath>
-      <Modified>2019-02-18T13:44:04.783</Modified>
+      <Modified>2019-02-20T04:12:45.049</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\31673.QNPBBL1810002\Desktop\UnityProject\Hololens_MeshData_Test\App\Hololens_MeshData_Test\UnityEngine.AIModule.dll">
       <PackagePath>UnityEngine.AIModule.dll</PackagePath>
-      <Modified>2019-02-18T13:44:04.798</Modified>
+      <Modified>2019-02-20T04:12:45.064</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\31673.QNPBBL1810002\Desktop\UnityProject\Hololens_MeshData_Test\App\Hololens_MeshData_Test\UnityEngine.AccessibilityModule.dll">
       <PackagePath>UnityEngine.AccessibilityModule.dll</PackagePath>
-      <Modified>2019-02-18T13:44:04.808</Modified>
+      <Modified>2019-02-20T04:12:45.071</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\31673.QNPBBL1810002\Desktop\UnityProject\Hololens_MeshData_Test\App\Hololens_MeshData_Test\UnityEngine.JSONSerializeModule.dll">
       <PackagePath>UnityEngine.JSONSerializeModule.dll</PackagePath>
-      <Modified>2019-02-18T13:44:04.817</Modified>
+      <Modified>2019-02-20T04:12:45.078</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\31673.QNPBBL1810002\Desktop\UnityProject\Hololens_MeshData_Test\App\Hololens_MeshData_Test\UnityEngine.InputModule.dll">
       <PackagePath>UnityEngine.InputModule.dll</PackagePath>
-      <Modified>2019-02-18T13:44:04.826</Modified>
+      <Modified>2019-02-20T04:12:45.086</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\31673.QNPBBL1810002\Desktop\UnityProject\Hololens_MeshData_Test\App\Hololens_MeshData_Test\UnityEngine.ParticlesLegacyModule.dll">
       <PackagePath>UnityEngine.ParticlesLegacyModule.dll</PackagePath>
-      <Modified>2019-02-18T13:44:04.835</Modified>
+      <Modified>2019-02-20T04:12:45.093</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\31673.QNPBBL1810002\Desktop\UnityProject\Hololens_MeshData_Test\App\Hololens_MeshData_Test\UnityEngine.Physics2DModule.dll">
       <PackagePath>UnityEngine.Physics2DModule.dll</PackagePath>
-      <Modified>2019-02-18T13:44:04.859</Modified>
+      <Modified>2019-02-20T04:12:45.110</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\31673.QNPBBL1810002\Desktop\UnityProject\Hololens_MeshData_Test\App\Hololens_MeshData_Test\UnityEngine.PerformanceReportingModule.dll">
       <PackagePath>UnityEngine.PerformanceReportingModule.dll</PackagePath>
-      <Modified>2019-02-18T13:44:04.867</Modified>
+      <Modified>2019-02-20T04:12:45.118</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\31673.QNPBBL1810002\Desktop\UnityProject\Hololens_MeshData_Test\App\Hololens_MeshData_Test\UnityEngine.ParticleSystemModule.dll">
       <PackagePath>UnityEngine.ParticleSystemModule.dll</PackagePath>
-      <Modified>2019-02-18T13:44:04.894</Modified>
+      <Modified>2019-02-20T04:12:45.142</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\31673.QNPBBL1810002\Desktop\UnityProject\Hololens_MeshData_Test\App\Hololens_MeshData_Test\UnityEngine.GameCenterModule.dll">
       <PackagePath>UnityEngine.GameCenterModule.dll</PackagePath>
-      <Modified>2019-02-18T13:44:04.905</Modified>
+      <Modified>2019-02-20T04:12:45.151</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\31673.QNPBBL1810002\Desktop\UnityProject\Hololens_MeshData_Test\App\Hololens_MeshData_Test\UnityEngine.dll">
       <PackagePath>UnityEngine.dll</PackagePath>
-      <Modified>2019-02-18T13:42:55.268</Modified>
+      <Modified>2019-02-20T04:11:16.970</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\31673.QNPBBL1810002\Desktop\UnityProject\Hololens_MeshData_Test\App\Hololens_MeshData_Test\UnityEngine.DirectorModule.dll">
       <PackagePath>UnityEngine.DirectorModule.dll</PackagePath>
-      <Modified>2019-02-18T13:44:04.913</Modified>
+      <Modified>2019-02-20T04:12:45.157</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\31673.QNPBBL1810002\Desktop\UnityProject\Hololens_MeshData_Test\App\Hololens_MeshData_Test\UnityEngine.GridModule.dll">
       <PackagePath>UnityEngine.GridModule.dll</PackagePath>
-      <Modified>2019-02-18T13:44:04.922</Modified>
+      <Modified>2019-02-20T04:12:45.163</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\31673.QNPBBL1810002\Desktop\UnityProject\Hololens_MeshData_Test\App\Hololens_MeshData_Test\UnityEngine.IMGUIModule.dll">
       <PackagePath>UnityEngine.IMGUIModule.dll</PackagePath>
-      <Modified>2019-02-18T13:44:04.941</Modified>
+      <Modified>2019-02-20T04:12:45.180</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\31673.QNPBBL1810002\Desktop\UnityProject\Hololens_MeshData_Test\App\Hololens_MeshData_Test\UnityEngine.ImageConversionModule.dll">
       <PackagePath>UnityEngine.ImageConversionModule.dll</PackagePath>
-      <Modified>2019-02-18T13:44:04.947</Modified>
+      <Modified>2019-02-20T04:12:45.186</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\31673.QNPBBL1810002\Desktop\UnityProject\Hololens_MeshData_Test\App\Hololens_MeshData_Test\Newtonsoft.Json.dll">
       <PackagePath>Newtonsoft.Json.dll</PackagePath>
-      <Modified>2019-02-18T13:44:05.013</Modified>
+      <Modified>2019-02-20T04:12:45.240</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\31673.QNPBBL1810002\Desktop\UnityProject\Hololens_MeshData_Test\App\Hololens_MeshData_Test\UnityEngine.Timeline.dll">
       <PackagePath>UnityEngine.Timeline.dll</PackagePath>
-      <Modified>2019-02-18T13:44:05.064</Modified>
+      <Modified>2019-02-20T04:12:45.273</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\31673.QNPBBL1810002\Desktop\UnityProject\Hololens_MeshData_Test\App\Hololens_MeshData_Test\nunit.framework.dll">
       <PackagePath>nunit.framework.dll</PackagePath>
-      <Modified>2019-02-18T13:44:05.565</Modified>
+      <Modified>2019-02-20T04:12:45.694</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\31673.QNPBBL1810002\Desktop\UnityProject\Hololens_MeshData_Test\App\Hololens_MeshData_Test\UnityEngine.UI.dll">
       <PackagePath>UnityEngine.UI.dll</PackagePath>
-      <Modified>2019-02-18T13:44:05.657</Modified>
+      <Modified>2019-02-20T04:12:45.775</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\31673.QNPBBL1810002\Desktop\UnityProject\Hololens_MeshData_Test\App\Hololens_MeshData_Test\UnityEngine.SpatialTracking.dll">
       <PackagePath>UnityEngine.SpatialTracking.dll</PackagePath>
-      <Modified>2019-02-18T13:44:05.666</Modified>
+      <Modified>2019-02-20T04:12:45.785</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\31673.QNPBBL1810002\Desktop\UnityProject\Hololens_MeshData_Test\App\Hololens_MeshData_Test\UnityEngine.Analytics.dll">
       <PackagePath>UnityEngine.Analytics.dll</PackagePath>
-      <Modified>2019-02-18T13:44:05.683</Modified>
+      <Modified>2019-02-20T04:12:45.799</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\31673.QNPBBL1810002\Desktop\UnityProject\Hololens_MeshData_Test\App\Hololens_MeshData_Test\UnityEngine.HoloLens.dll">
       <PackagePath>UnityEngine.HoloLens.dll</PackagePath>
-      <Modified>2019-02-18T13:44:05.696</Modified>
+      <Modified>2019-02-20T04:12:45.816</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\31673.QNPBBL1810002\Desktop\UnityProject\Hololens_MeshData_Test\App\Hololens_MeshData_Test\UnityEngine.StandardEvents.dll">
       <PackagePath>UnityEngine.StandardEvents.dll</PackagePath>
-      <Modified>2019-02-18T13:44:05.711</Modified>
+      <Modified>2019-02-20T04:12:45.828</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\31673.QNPBBL1810002\Desktop\UnityProject\Hololens_MeshData_Test\App\Hololens_MeshData_Test\UnityEngine.Networking.dll">
       <PackagePath>UnityEngine.Networking.dll</PackagePath>
-      <Modified>2019-02-18T13:44:05.793</Modified>
+      <Modified>2019-02-20T04:12:45.889</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\31673.QNPBBL1810002\Desktop\UnityProject\Hololens_MeshData_Test\App\Hololens_MeshData_Test\GLTFSerializationUWP.dll">
       <PackagePath>GLTFSerializationUWP.dll</PackagePath>
-      <Modified>2019-02-18T13:44:05.839</Modified>
+      <Modified>2019-02-20T04:12:45.915</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\31673.QNPBBL1810002\Desktop\UnityProject\Hololens_MeshData_Test\App\Hololens_MeshData_Test\bin\x86\Release\Core\Hololens_MeshData_Test.exe">
       <PackagePath>Hololens_MeshData_Test.exe</PackagePath>
-      <Modified>2019-02-18T13:44:06.939</Modified>
+      <Modified>2019-02-20T04:12:46.627</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

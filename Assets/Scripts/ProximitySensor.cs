@@ -65,35 +65,39 @@ public class ProximitySensor : MonoBehaviour
         for (int i = 0; i < hitvect.Count; i++)
             sumvect += hitvect[i];
 
-        // レイが衝突した位置の平均位置にレイを飛ばしてヒットした時の処理
-        if (Physics.Raycast(transform.position, sumvect.normalized, out rh, m_RayDistance, LayerMask.GetMask(new string[] { "Wall" }), QueryTriggerInteraction.Ignore))
+        // メニューが非表示の場合のみ警告のチェックを行う。
+        if (MenuManagement.Instance.MenuShow == false)
         {
-
-            // 警告音の発信元のオブジェクトをレイがヒットした位置に設定する。
-            m_AlarmSE.transform.position = rh.point;
-            Debug.Log("Ray Hit : " + rh.point);
-            //MenuManagement.Instance.DebugTextObject.text += string.Format("\nHit Layer " + rh.collider.gameObject.layer);
-
-            // 警告音が再生中でなければ、再生する。合わせて警告メッセージを表示する。
-            if (m_ArarmSEPlaying == false)
+            // レイが衝突した位置の平均位置にレイを飛ばしてヒットした時の処理
+            if (Physics.Raycast(transform.position, sumvect.normalized, out rh, m_RayDistance, LayerMask.GetMask(new string[] { "Wall" }), QueryTriggerInteraction.Ignore))
             {
-                Debug.Log("Ararm Play");
-                m_ArarmSEAudioSource.Play();
-                m_ArarmSEPlaying = true;
-                m_AlarmMSG.SetActive(true);
+
+                // 警告音の発信元のオブジェクトをレイがヒットした位置に設定する。
+                m_AlarmSE.transform.position = rh.point;
+                Debug.Log("Ray Hit : " + rh.point);
+                //MenuManagement.Instance.DebugTextObject.text += string.Format("\nHit Layer " + rh.collider.gameObject.layer);
+
+                // 警告音が停止中の場合、再生する。合わせて警告メッセージを表示する。
+                if (m_ArarmSEPlaying == false)
+                {
+                    Debug.Log("Ararm Play");
+                    m_ArarmSEAudioSource.Play();
+                    m_ArarmSEPlaying = true;
+                    m_AlarmMSG.SetActive(true);
+                }
+
             }
-            
-        }
-        // レイが衝突した位置の平均位置にレイを飛ばしてヒットしなかった時の処理
-        else
-        {
-            // 警告音が停止中でなければ、停止する。合わせて警告メッセージを非表示にする。
-            if (m_ArarmSEPlaying == true)
+            // レイが衝突した位置の平均位置にレイを飛ばしてヒットしなかった時の処理
+            else
             {
-                Debug.Log("Ararm Stop");
-                m_ArarmSEAudioSource.Stop();
-                m_ArarmSEPlaying = false;
-                m_AlarmMSG.SetActive(false);
+                // 警告音が停止中でなければ、停止する。合わせて警告メッセージを非表示にする。
+                if (m_ArarmSEPlaying == true)
+                {
+                    Debug.Log("Ararm Stop");
+                    m_ArarmSEAudioSource.Stop();
+                    m_ArarmSEPlaying = false;
+                    m_AlarmMSG.SetActive(false);
+                }
             }
         }
     }
